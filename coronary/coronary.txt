@@ -1,4 +1,4 @@
-id	gender	age	smoke	bmi	country	ev4	ev3
+id	sex	age	smoke	bmi	country	ev4	ev3
 12	Females	40.2190284729004	Current	30.3850173950195	50	0.0116	-7e-04
 20	Males	34.7488021850586	Ex	NA	51	0.0152	-0.0026
 27	Males	49.1772766113281	Ex	30.717399597168	53	0.0151	-7e-04

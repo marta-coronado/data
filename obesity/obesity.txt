@@ -1,4 +1,4 @@
-id	gender	obese	age	smoke	country
+id	sex	obese	age	smoke	country
 4180	Male	1	41	Current	50
 4880	Female	NA	35	Ex	51
 435	Male	1	50	Ex	53
